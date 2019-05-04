@@ -5,7 +5,7 @@ Sometimes Node.js dies. It just happens. Even when you handle all your errors, y
 In this episode we'll look at _why_ that happens, as well as what your options are for handling that gracefully in Azure.
 
  - [PM2](http://pm2.keymetrics.io)
- - [Azure Scaling](https://docs.microsoft.com/en-us/azure/app-service/web-sites-scale?WT.mc_id=azurecasts-website-buhollan)
- - [VS Code Azure Extenstions](https://code.visualstudio.com/docs/azure/extensions?WT.mc_id=azurecasts-website-buhollan)
- - [Design your app to scale out](https://docs.microsoft.com/azure/architecture/guide/design-principles/scale-out?WT.mc_id=azurecasts-website-buhollan)
- - [Deploying to Azure using AppService](https://code.visualstudio.com/tutorials/app-service-extension/getting-started?WT.mc_id=azurecasts-website-buhollan)
+ - [Azure Scaling](https://docs.microsoft.com/en-us/azure/app-service/web-sites-scale?WT.mc_id=azurecast_007-github-burkeholland)
+ - [VS Code Azure Extenstions](https://code.visualstudio.com/docs/azure/extensions?WT.mc_id=azurecast_007-github-burkeholland)
+ - [Design your app to scale out](https://docs.microsoft.com/azure/architecture/guide/design-principles/scale-out?WT.mc_id=azurecast_007-github-burkeholland)
+ - [Deploying to Azure using AppService](https://code.visualstudio.com/tutorials/app-service-extension/getting-started?WT.mc_id=azurecast_007-github-burkeholland)
